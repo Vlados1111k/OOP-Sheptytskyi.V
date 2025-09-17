@@ -9,7 +9,7 @@ class BankAccount:
     @balance.setter
     def balance(self, value):
         if value < 0:
-            raise ValueError("Баланс не може бути від’ємним!")
+            raise ValueError("Баланс не може бути від’ємним")
         self._balance = value
 
     def __add__(self, amount):
@@ -21,7 +21,7 @@ class BankAccount:
         if not isinstance(amount, (int, float)):
             return NotImplemented
         if self._balance - amount < 0:
-            raise ValueError("Недостатньо коштів на рахунку!")
+            raise ValueError("Недостатньо коштів на рахунку")
         return BankAccount(self._balance - amount)
 
     def __str__(self):
@@ -37,5 +37,6 @@ if __name__ == "__main__":
 
     acc3 = acc2 - 70  
     print(acc3) 
+
 
 
