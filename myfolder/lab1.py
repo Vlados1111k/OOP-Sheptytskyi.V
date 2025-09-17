@@ -1,1 +1,19 @@
+class Figure:
+    def __init__(self, name="rectangle", width=10, height=5):  # лего
+        self.name = name
+        self._width = width     # приватка
+        self._height = height   # приватка
 
+    def __del__(self):  # деструктор
+        print("Destructor called, Figure deleted.")
+    @property
+    def Area(self):  # публіка
+        return self._width * self._height
+
+    def GetFigure(self):  # метод для виводу інформації
+        return f"Figure: {self.name}, width = {self._width}, height = {self._height}, Area = {self.Area}"
+
+
+obj1 = Figure("MyRectangle", 8, 6)
+print(obj1.GetFigure())
+del obj1
