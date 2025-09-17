@@ -4,24 +4,20 @@ class BankAccount:
 
     @property
     def balance(self):
-        """Геттер для балансу"""
         return self._balance
 
     @balance.setter
     def balance(self, value):
-        """Сеттер з валідацією (баланс >= 0)"""
         if value < 0:
             raise ValueError("Баланс не може бути від’ємним!")
         self._balance = value
 
     def __add__(self, amount):
-        """Перевантаження оператора + (поповнення)"""
         if not isinstance(amount, (int, float)):
             return NotImplemented
         return BankAccount(self._balance + amount)
 
     def __sub__(self, amount):
-        """Перевантаження оператора - (зняття)"""
         if not isinstance(amount, (int, float)):
             return NotImplemented
         if self._balance - amount < 0:
@@ -41,4 +37,5 @@ if __name__ == "__main__":
 
     acc3 = acc2 - 70  
     print(acc3) 
+
 
