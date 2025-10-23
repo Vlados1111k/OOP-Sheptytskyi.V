@@ -3,8 +3,7 @@ using System.Collections.Generic;
 
 namespace FoodExample
 {
-    //Базовий клас
-    class FoodItem
+    abstract class FoodItem 
     {
         public string Name { get; set; }
         public int Calories { get; set; }
@@ -15,7 +14,6 @@ namespace FoodExample
             Calories = calories;
         }
 
-        // Віртуальний метод
         public virtual string GetCategory()
         {
             return "Загальна їжа";
@@ -25,15 +23,21 @@ namespace FoodExample
         {
             Console.WriteLine($"{Name} - {Calories} калорій ({GetCategory()})");
         }
+        
+        public abstract void ShowStorageInfo();
+
+        ~FoodItem()
+        {
+            Console.WriteLine($"[ДЕСТРУКТОР]: Продукт {Name} було утилізовано.");
+        }
     }
 
-    // Похідний клас Fruit
     class Fruit : FoodItem
     {
         public string Color { get; set; }
 
         public Fruit(string name, int calories, string color)
-            : base(name, calories) // Виклик конструктора базового класу
+            : base(name, calories) 
         {
             Color = color;
         }
@@ -47,9 +51,13 @@ namespace FoodExample
         {
             Console.WriteLine($"{Name} ({Color}) - {Calories} калорій [{GetCategory()}]");
         }
+
+        public override void ShowStorageInfo()
+        {
+            Console.WriteLine($"    -> {Name} слід зберігати в холодильнику.");
+        }
     }
 
-    // Похідний клас Meat
     class Meat : FoodItem
     {
         public string Type { get; set; }
@@ -69,14 +77,17 @@ namespace FoodExample
         {
             Console.WriteLine($"{Name} ({Type}) - {Calories} калорій [{GetCategory()}]");
         }
+
+        public override void ShowStorageInfo()
+        {
+            Console.WriteLine($"    -> {Name} слід зберігати в морозилці!");
+        }
     }
 
-    // Основна програма
     class Program
     {
         static void Main(string[] args)
         {
-            // Поліморфізм.Колекція базового типу, що містить різні об'єкти
             List<FoodItem> menu = new List<FoodItem>
             {
                 new Fruit("Яблуко", 52, "червоне"),
@@ -91,13 +102,13 @@ namespace FoodExample
             Console.WriteLine("------");
             foreach (var item in menu)
             {
-                item.ShowInfo(); // поліморфізм
+                item.ShowInfo(); 
+                item.ShowStorageInfo(); 
                 totalCalories += item.Calories;
             }
 
             Console.WriteLine("\nЗагальна калорійність страви: " + totalCalories);
 
-            // порівняння за категоріями
             Console.WriteLine("\nПорівняння категорій:");
             Console.WriteLine(menu[0].GetCategory() == menu[2].GetCategory()
                 ? "Одна категорія"
