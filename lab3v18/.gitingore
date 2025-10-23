@@ -1,0 +1,21 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# Packages
+packages/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.opendata
+
+# Temporary files
+*.tmp
+*.log
+
+# Other
+node_modules/
