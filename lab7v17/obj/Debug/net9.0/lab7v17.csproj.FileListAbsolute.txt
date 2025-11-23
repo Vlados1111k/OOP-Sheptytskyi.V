@@ -1,0 +1,15 @@
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\bin\Debug\net9.0\lab7v17.exe
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\bin\Debug\net9.0\lab7v17.deps.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\bin\Debug\net9.0\lab7v17.runtimeconfig.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\bin\Debug\net9.0\lab7v17.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\bin\Debug\net9.0\lab7v17.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.AssemblyInfoInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.AssemblyInfo.cs
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.sourcelink.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\refint\lab7v17.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\lab7v17.genruntimeconfig.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\OOP-Sheptytskyi\lab7v17\obj\Debug\net9.0\ref\lab7v17.dll
