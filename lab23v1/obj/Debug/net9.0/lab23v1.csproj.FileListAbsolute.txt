@@ -1,0 +1,14 @@
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\bin\Debug\net9.0\lab23v1.exe
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\bin\Debug\net9.0\lab23v1.deps.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\bin\Debug\net9.0\lab23v1.runtimeconfig.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\bin\Debug\net9.0\lab23v1.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\bin\Debug\net9.0\lab23v1.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.AssemblyInfoInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.AssemblyInfo.cs
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\refint\lab23v1.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\lab23v1.genruntimeconfig.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\lab23v1\obj\Debug\net9.0\ref\lab23v1.dll

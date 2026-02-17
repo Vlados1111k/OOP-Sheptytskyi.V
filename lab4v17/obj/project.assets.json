@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\OOP-Sheptytskyi\\lab7v17\\lab7v17.csproj",
-      "projectName": "lab7v17",
-      "projectPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\OOP-Sheptytskyi\\lab7v17\\lab7v17.csproj",
+      "projectUniqueName": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\lab4v17\\lab4V17.csproj",
+      "projectName": "lab4V17",
+      "projectPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\lab4v17\\lab4V17.csproj",
       "packagesPath": "C:\\Users\\Komp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\OOP-Sheptytskyi\\lab7v17\\obj\\",
+      "outputPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\lab4v17\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Komp\\AppData\\Roaming\\NuGet\\NuGet.Config"
