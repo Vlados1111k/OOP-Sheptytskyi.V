@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mHfUc++kAwk=",
+  "dgSpecHash": "adFWBYjaQkc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\lab6v17\\lab6v17.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\lab6v17\\lab6v17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komp\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Komp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Komp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Komp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
