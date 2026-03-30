@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Model": "Tesla Model 3",
+    "LicensePlate": "B\u041A1234AI"
+  },
+  {
+    "Id": 2,
+    "Model": "BMW X5",
+    "LicensePlate": "\u0412\u041A7777OO"
+  }
+]
