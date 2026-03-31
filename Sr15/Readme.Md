@@ -35,6 +35,7 @@ public abstract class JsonConverter {
     public abstract void WriteJson(JsonWriter writer, object value, JsonSerializer serializer);
     public abstract object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer);
     }
+```
 
 ---
 
