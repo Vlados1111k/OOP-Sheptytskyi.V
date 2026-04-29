@@ -1,0 +1,16 @@
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\bin\Debug\net10.0\Cinema.Application.deps.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\bin\Debug\net10.0\Cinema.Application.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\bin\Debug\net10.0\Cinema.Application.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\bin\Debug\net10.0\Cinema.Domain.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\bin\Debug\net10.0\Cinema.Domain.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.csproj.AssemblyReference.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.AssemblyInfoInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.AssemblyInfo.cs
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.sourcelink.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.A.B61B4880.Up2Date
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\refint\Cinema.Application.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\Cinema.Application.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Application\obj\Debug\net10.0\ref\Cinema.Application.dll
