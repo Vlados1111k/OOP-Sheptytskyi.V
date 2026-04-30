@@ -1,12 +1,5 @@
 namespace Cinema.Domain;
 
-public class Movie {
-    public int Id { get; set; }
-    public string Title { get; set; } = "";
-    public string Genre { get; set; } = "";
-    public int DurationMinutes { get; set; }
-}
-
 public class CinemaHall {
     public int Id { get; set; }
     public string Name { get; set; } = "";

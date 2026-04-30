@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "qtt+pzWv/hY=",
+  "dgSpecHash": "H7pEZkxuwaU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaProject\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komp\\.nuget\\packages\\system.text.json\\10.0.7\\system.text.json.10.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

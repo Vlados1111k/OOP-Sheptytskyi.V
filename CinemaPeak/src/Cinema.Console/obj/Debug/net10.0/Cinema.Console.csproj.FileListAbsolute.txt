@@ -5,7 +5,9 @@ C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\Cinema
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Console.pdb
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Application.dll
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Domain.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Infrastructure.dll
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Application.pdb
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Infrastructure.pdb
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\bin\Debug\net10.0\Cinema.Domain.pdb
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\obj\Debug\net10.0\Cinema.Console.csproj.AssemblyReference.cache
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Console\obj\Debug\net10.0\Cinema.Console.GeneratedMSBuildEditorConfig.editorconfig

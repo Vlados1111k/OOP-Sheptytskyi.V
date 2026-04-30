@@ -1,11 +1,11 @@
-C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.deps.json
-C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.dll
-C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.pdb
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.AssemblyInfoInputs.cache
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.AssemblyInfo.cs
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.sourcelink.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.deps.json
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.dll
+C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\bin\Debug\net10.0\Cinema.Domain.pdb
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.dll
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\refint\Cinema.Domain.dll
 C:\Users\Komp\Desktop\програмування\ООП\OOP-Sheptytskyi.V\CinemaPeak\src\Cinema.Domain\obj\Debug\net10.0\Cinema.Domain.pdb

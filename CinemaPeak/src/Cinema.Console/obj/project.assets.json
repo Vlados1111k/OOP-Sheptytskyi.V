@@ -24,6 +24,19 @@
         "runtime": {
           "bin/placeholder/Cinema.Domain.dll": {}
         }
+      },
+      "Cinema.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Cinema.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cinema.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cinema.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -37,11 +50,17 @@
       "type": "project",
       "path": "../Cinema.Domain/Cinema.Domain.csproj",
       "msbuildProject": "../Cinema.Domain/Cinema.Domain.csproj"
+    },
+    "Cinema.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Cinema.Infrastructure/Cinema.Infrastructure.csproj",
+      "msbuildProject": "../Cinema.Infrastructure/Cinema.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Cinema.Application >= 1.0.0"
+      "Cinema.Application >= 1.0.0",
+      "Cinema.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -78,6 +97,9 @@
           "projectReferences": {
             "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Application\\Cinema.Application.csproj": {
               "projectPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Application\\Cinema.Application.csproj"
+            },
+            "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Komp\\Desktop\\програмування\\ООП\\OOP-Sheptytskyi.V\\CinemaPeak\\src\\Cinema.Infrastructure\\Cinema.Infrastructure.csproj"
             }
           }
         }
