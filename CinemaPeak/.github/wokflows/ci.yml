@@ -1,0 +1,21 @@
+name: .NET CI with Coverage
+
+on:
+  push:
+    branches: [ lab36 ]
+  pull_request:
+    branches: [ lab36 ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.0.x'
+    - run: dotnet restore
+    - run: dotnet build --no-restore
+    - name: Test & % Coverage
+      run: dotnet test --no-build /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura
